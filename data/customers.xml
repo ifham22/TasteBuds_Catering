@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customers>
+    <registeredCustomer>
+        <id>C003</id>
+        <name>Ifham</name>
+        <ordersThisMonth>0</ordersThisMonth>
+        <discount>0.0</discount>
+    </registeredCustomer>
+</customers>
